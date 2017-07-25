@@ -1,0 +1,14 @@
+Data
+Data-Arch
+Temp
+Work
+Data-Keras
+Data-XGB
+PreData
+.Rproj.user
+.RData
+.RData?
+.Rhistory
+.ipynb_*
+Jupyter*/Git*.*
+
