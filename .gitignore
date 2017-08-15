@@ -11,4 +11,6 @@ PreData
 .Rhistory
 .ipynb_*
 Jupyter*/Git*.*
+*.zip
+*.hdf5
 
