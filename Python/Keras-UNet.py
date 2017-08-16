@@ -3,7 +3,6 @@
 #
 #    Творчески взято и переработано: https://github.com/pietz/unet-keras
 #
-#
 
 from keras.models import Input, Model
 from keras.layers import Convolution2D, MaxPooling2D, UpSampling2D, Conv2D, Concatenate, Activation, Dropout
